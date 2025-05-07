@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #008080;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+nav a {
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+#current {
+    background-color: #0af0f049;
+    border-radius: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    padding: 30px;
+    margin: 30px auto;
+    border-radius: 20px;
+    box-shadow: 3px 5px 15px rgba(0, 0, 0, 0.5);
+    max-width: 400px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 15px;
+    margin-top: 10px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
